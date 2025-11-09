@@ -1,6 +1,6 @@
 # CapMKV — Funcionamiento paso a paso
 
-CapMKV facilita la creación, edición y guardado de capítulos para vídeos (MKV). A continuación se detalla el uso de todas las opciones de las tres áreas principales: Ventana principal, Capítulos por lote y Creación de capítulos automática.
+CapMKV es un programa para Windows que facilita la creación, edición y guardado de capítulos para vídeos (MKV). A continuación se detalla el uso de todas las opciones de las tres áreas principales: Ventana principal, Capítulos por lote y Creación de capítulos automática.
 
 ## Ventana principal
 ![Ventana principal](Docs_Assets/Captura1.png)
