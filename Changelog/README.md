@@ -3,18 +3,6 @@
 Este archivo documenta los cambios relevantes de CapMKV.
 El formato sigue un estilo simple, inspirado en Keep a Changelog y control de versiones semántico.
 
-## [Sin publicar]
-Añade aquí cambios en desarrollo. Al publicar, mueve estas entradas a una nueva sección con versión y fecha (`[X.Y.Z] - YYYY-MM-DD`).
-
-### Añadido
-- Nada por ahora.
-
-### Cambiado
-- Nada por ahora.
-
-### Corregido
-- Nada por ahora.
-
 ## [1.0.1] - 2025-11-09
 
 ### Añadido
@@ -28,7 +16,7 @@ Añade aquí cambios en desarrollo. Al publicar, mueve estas entradas a una nuev
 - Documento `Guia_Ayuda_Consulta.md` con ayuda, resolución de problemas, mejores prácticas y preguntas frecuentes.
 
 ### Cambiado
-- Nombres en documentos y en `info` para utilizar “Ventana principal”, “Capítulos por lote” y “Creación de capítulos automática” en lugar de “Form1”, “Form2” y “Form3”.
+- Nombres en documentos y en `info` para utilizar “Ventana principal”, “Capítulos por lote” y “Creación de capítulos automática” en lugar de “Formularios”.
 
 ### Corregido
 - N/A.
