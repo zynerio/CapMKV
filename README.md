@@ -3,6 +3,7 @@
 CapMKV facilita la creación, edición y guardado de capítulos para vídeos (MKV). A continuación se detalla el uso de todas las opciones de las tres áreas principales: Ventana principal, Capítulos por lote y Creación de capítulos automática.
 
 ## Ventana principal
+![Ventana principal](Docs_Assets/Captura1.png)
 
 - `Listado de capítulos`: muestra cada capítulo con dos columnas: tiempo (`HH:MM:SS.mmm...`) y nombre.
 - `Hora/Min/Sec/milisegundos`: controles numéricos para fijar el tiempo del capítulo.
@@ -30,6 +31,7 @@ Notas de edición y duplicados:
 - Al editar o añadir, si existe otro capítulo con el mismo tiempo, el nombre se ajusta automáticamente con sufijos `(2)`, `(3)`, etc. para mantener diferenciación.
 
 ## Capítulos por lote (entrada masiva)
+![Capítulos por lote](Docs_Assets/Captura2.png)
 
 Objetivo: transformar bloques de texto (pegados, arrastrados o abiertos) en capítulos del listado principal.
 
@@ -60,6 +62,7 @@ Añadir vs. Sustituir:
 - Antes de `Sustituir`, puede ofrecer guardar la lista actual.
 
 ## Creación de capítulos automática (intervalos)
+![Creación de capítulos automática](Docs_Assets/Captura3.png)
 
 Objetivo: generar capítulos automáticamente cada `N` minutos a partir de una duración total del vídeo.
 
