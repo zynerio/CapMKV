@@ -1,9 +1,43 @@
 # Changelog
 
-Este archivo documenta los cambios relevantes de CapMKV.
-El formato sigue un estilo simple, inspirado en Keep a Changelog y control de versiones semántico.
 
-## [1.0.1] - 2025-11-09
+## [1.1.0] - 11-11-2025
+- Se añaden traducciones faltantes en la anterior versión.
+
+### Añadido
+- N/A
+
+### Cambiado
+- N/A.
+
+### Corregido
+- Correcciones menores y correcciones en las traducciones faltantes.
+
+## [1.0.7] - 11-11-2025
+- Se añade soporte para multi-idioma, ahora se puede elegir entre idiomas base (Español o Inglés) o se puede modificar los textos de la traduccion de forma facil, o crear una nueva traducción a otro idioma. (Versión no publica)
+
+### Añadido
+- Añadido soporte para multi idioma.
+
+### Cambiado
+- N/A
+
+### Corregido
+- N/A.
+
+## [1.0.3] - 10-11-2025
+-Correcciones menores en botones y textos. (Versión no publica)
+
+### Añadido
+- N/A.
+
+### Cambiado
+- N/A.
+
+### Corregido
+- Correcciones menores.
+
+## [1.0.1] - 09-11-2025
 
 ### Añadido
 - Texto explicativo en la ventana de información (`info`) sobre:
