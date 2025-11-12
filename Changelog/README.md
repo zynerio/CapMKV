@@ -1,11 +1,21 @@
 # Changelog
-
-
-## [1.1.0] - 11-11-2025
-- Se añaden traducciones faltantes en la anterior versión.
+## [1.1.1] - 12-11-2025
+- Se añade la función de actualización. Ahora cuando haya una actualización saldra un mensaje, tambien desde información se pueden comprobar si hay actualizaciones.
 
 ### Añadido
-- N/A
+- Añadido avisos de actualización
+
+### Cambiado
+- N/A.
+
+### Corregido
+- Correcciones menores y correcciones en las traducciones faltantes.
+
+## [1.1.0] - 11-11-2025
+- Se añaden traducciones faltantes en la anterior versión.(Versión no publica)
+
+### Añadido
+- Añadido los idiomas Català, Deutsch, Euskera, Français, Galego, Italiano, Português y български (Búlgaro)
 
 ### Cambiado
 - N/A.
