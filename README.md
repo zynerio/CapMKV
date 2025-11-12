@@ -92,7 +92,7 @@ Resultados:
 ![Cambio de idioma](Docs_Assets/Captura4.png)
 
 - Cambia de idioma usando el selector de idiomas.
-- Si necesitas personalizar alguno de los idiomas base, puedes buscarlos en la carpeta `lang`, los archivos de idima son archivos de texto para facilitar la traducción o modificación de los mismos. 
+- Si necesitas personalizar alguno de los idiomas base, puedes buscarlos en la carpeta `lang`, los archivos de idioma son archivos de texto para facilitar la traducción o modificación de los mismos. 
 - Si quieres añadir uno nuevo, usa el archivo `English.txt` que se encuentra en la carpeta `lang` y usa cualquier sevicio de traducción. Guarda el resultante con el nombre del nuevo idioma dentro de la carpeta `lang` y al cargar el listado este nuevo idioma estara para elegir.
 
 ## Consejos
