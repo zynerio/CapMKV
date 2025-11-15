@@ -3,7 +3,7 @@
 CapMKV es un programa para Windows que facilita la creación, edición y guardado de capítulos para vídeos (MKV). A continuación se detalla el uso de todas las opciones de las tres áreas principales: Ventana principal, Capítulos por lote y Creación de capítulos automática.
 
 ## Ventana principal
-![Ventana principal](Docs_Assets/Captura0.png)
+![Ventana principal](Docs_Assets/Captura01.png)
 
 - `Listado de capítulos`: muestra cada capítulo con dos columnas: tiempo (`HH:MM:SS.mmm...`) y nombre.
 - `Hora/Min/Sec/milisegundos`: controles numéricos para fijar el tiempo del capítulo.
@@ -31,7 +31,7 @@ Notas de edición y duplicados:
 - Al editar o añadir, si existe otro capítulo con el mismo tiempo, el nombre se ajusta automáticamente con sufijos `(2)`, `(3)`, etc. para mantener diferenciación.
 
 ## Capítulos por lote (entrada masiva)
-![Capítulos por lote](Docs_Assets/Captura2.png)
+![Capítulos por lote](Docs_Assets/Captura02.png)
 
 Objetivo: transformar bloques de texto (pegados, arrastrados o abiertos) en capítulos del listado principal.
 
@@ -62,7 +62,7 @@ Añadir vs. Sustituir:
 - Antes de `Sustituir`, puede ofrecer guardar la lista actual.
 
 ## Creación de capítulos automática (intervalos)
-![Creación de capítulos automática](Docs_Assets/Captura3.png)
+![Creación de capítulos automática](Docs_Assets/Captura03.png)
 
 Objetivo: generar capítulos automáticamente cada `N` minutos a partir de una duración total del vídeo.
 
@@ -89,7 +89,7 @@ Resultados:
 - Al cerrar la ventana principal, si hay cambios sin guardar, se ofrece guardar. El mensaje incluye el número de capítulos sin guardar y, si aplica, el nombre del archivo actual.
 
 ## Cambio de idioma
-![Cambio de idioma](Docs_Assets/Captura4.png)
+![Cambio de idioma](Docs_Assets/Captura04.png)
 
 - Cambia de idioma usando el selector de idiomas.
 - Si necesitas personalizar alguno de los idiomas base, puedes buscarlos en la carpeta `lang`, los archivos de idioma son archivos de texto para facilitar la traducción o modificación de los mismos. 
