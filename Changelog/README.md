@@ -15,7 +15,7 @@
 - Se corrige la creación de archivos 'XML'. En la versión anterior se creaban con información extra y los capítulos no aparecían en el video resultante al usar [mkvtoolnix](https://mkvtoolnix.download/downloads.html) o MKV [Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui), por ejemplo. Se añade la opción de poder añadir el idioma de los capítulos. (Versión no pública)
 
 ### Añadido
-- Añadir el idioma de los capítulos
+- Añadir el idioma de los capítulos. Actualización de las traducciones con las nuevas opciones.
 
 ### Cambiado
 - N/A.
