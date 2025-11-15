@@ -95,6 +95,16 @@ Resultados:
 - Si necesitas personalizar alguno de los idiomas base, puedes buscarlos en la carpeta `lang`, los archivos de idioma son archivos de texto para facilitar la traducción o modificación de los mismos. 
 - Si quieres añadir uno nuevo, usa el archivo `English.txt` que se encuentra en la carpeta `lang` y usa cualquier sevicio de traducción. Guarda el resultante con el nombre del nuevo idioma dentro de la carpeta `lang` y al cargar el listado este nuevo idioma estara para elegir.
 
+## Aviso de actualizaciones
+![Cambio de idioma](Docs_Assets/Captura5.png)
+
+- Al iniciar el programa, si hay una actualización, se mostrará como en la imagen. Avisando de la nueva versión y con el enlace de descarga.
+
+## Comprobación de actualizaciones
+![Cambio de idioma](Docs_Assets/Captura7.png)
+
+- Puedes comprobar de forma manual las actualizaciones dentro de 'información'.
+
 ## Consejos
 
 - Usa Capítulos por lote si tienes una lista de tiempos desde otra fuente (texto, CSV).
