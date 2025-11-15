@@ -6,7 +6,7 @@
 - N/A
 
 ### Cambiado
-- Nuevos iconos 
+- Nuevos iconos proporcionados por [icons 8](https://icons8.com)
 
 ### Corregido
 - N/A
