@@ -1,4 +1,28 @@
 # Changelog
+## [1.1.3] - 15-11-2025
+- Cambio de los iconos del programa por unos mas limpios.
+
+### Añadido
+- N/A
+
+### Cambiado
+- Nuevos iconos 
+
+### Corregido
+- N/A
+
+## [1.1.2] - 13-11-2025
+- Se corrige la creación de archivos XML, en la versión anterior se creaban con información extra y los capitulos no aparecian en el video resultante al usar [mkvtoolnix](https://mkvtoolnix.download/downloads.html) o MKV [Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui), por ejemplo. Se añade la opcion de poder añadir el idioma de los capitulos. (Versión no publica)
+
+### Añadido
+- Añañdir el idioma de los capitulos
+
+### Cambiado
+- N/A.
+
+### Corregido
+- Correcciones en la generación de archivos xml.
+
 ## [1.1.1] - 12-11-2025
 - Se añade la función de actualización. Ahora cuando haya una actualización saldra un mensaje, tambien desde información se pueden comprobar si hay actualizaciones.
 
